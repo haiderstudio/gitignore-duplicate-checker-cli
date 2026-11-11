@@ -1,0 +1,14 @@
+# Build output
+build/
+dist/
+*.pyc
+
+# Python cache
+__pycache__/
+
+# Local settings
+.env
+.env.local
+
+# Editor files
+.vscode/

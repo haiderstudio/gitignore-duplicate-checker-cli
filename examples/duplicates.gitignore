@@ -1,0 +1,12 @@
+# Build output
+build/
+dist/
+
+# Someone added the same pattern again later
+build
+
+# A copy with extra spaces around it
+  dist/  
+
+# A duplicate of an earlier line, exact this time
+build/

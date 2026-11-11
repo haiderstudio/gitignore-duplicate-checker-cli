@@ -1,0 +1,4 @@
+# Ignore everything in logs, except one file we keep
+logs/
+!important.log
+important.log
